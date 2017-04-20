@@ -1,0 +1,18 @@
+[submodule "www/js/std-js"]
+	path = www/js/std-js
+	url = git://github.com/shgysk8zer0/std-js.git
+[submodule "www/css/core-css"]
+	path = www/css/core-css
+	url = git://github.com/shgysk8zer0/core-css.git
+[submodule "www/img/octicons"]
+	path = www/img/octicons
+	url = git://github.com/primer/octicons.git
+[submodule "www/css/normalize"]
+	path = www/css/normalize
+	url = git://github.com/necolas/normalize.css.git
+[submodule "www/img/logos"]
+	path = www/img/logos
+	url = git://github.com/shgysk8zer0/logos.git
+[submodule "www/fonts"]
+	path = www/fonts
+	url = git://github.com/shgysk8zer0/fonts.git

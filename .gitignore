@@ -1,0 +1,7 @@
+/platforms/
+/plugins/
+/node_modules/
+/www/img/icons.svg
+*.map
+*.min.*
+*.log

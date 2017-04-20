@@ -1,0 +1,6 @@
+/node_modules/
+/platforms/
+*.map.*
+/webpack.config.js
+/src/js/std-js/
+/src/js/jscrypt/
